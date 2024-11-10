@@ -169,8 +169,7 @@ h3{
     border-radius: 30px;
 }
 
-
-/* @media (max-width: 400px) { 
+ @media (max-width: 400px) { 
     #cookieBtn, img{
         width: 180px;
         height: 160px;
@@ -198,7 +197,7 @@ h3{
 
     #cookieDiv, p{
         font-size: 10px;
-        /* font-weight: 700; */
-/*         display: flex;
+         font-weight: 700; 
+        display: flex;
     };
-} */ 
+} 
